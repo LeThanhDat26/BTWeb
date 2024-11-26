@@ -1,0 +1,37 @@
+.main-content {
+    padding: 40px;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    }
+    .article {
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    }
+    .article h1 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    }
+    .article img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    }
+    .article .content { font-size: 18px;
+        color: #555;
+        line-height: 1.6; 
+    }
+        .article-meta { margin-top: 20px;
+        font-size: 14px;
+        color: #999;
+    }
+        article-meta p { margin: 0;
+        }
